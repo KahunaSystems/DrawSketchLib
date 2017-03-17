@@ -18,7 +18,7 @@ Draw Sketch on scratchpad in swift3(Currenlty available for iPad only).
 <b> How to install
 
 1. POD </b>
-   You can directly include following in your pod file
+   <br>You can directly include following in your pod file
    
             pod 'DrawSketchLib', :git => 'https://github.com/RPiyush/DrawSketchLib.git', :tag => '1.0.3'
      
