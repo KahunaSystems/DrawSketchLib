@@ -14,3 +14,9 @@ Draw Sketch on scratchpad in swift3(Currenlty available for iPad only).
 5. Set <b>image_title</b> as your image file name, name with which you want to store your sketch image.
 
 6. Implement delegate <b>DrawSketchViewControllerDelegate</b> which will return you image path where image saved.
+
+<b> How to install
+
+1. POD 
+
+2. Direct Drag and Drop </b>
