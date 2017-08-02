@@ -24,3 +24,8 @@ Draw Sketch on scratchpad in swift3(Currenlty available for iPad only).
      
 <b>
 2. Direct Drag and Drop </b>
+
+
+## Author
+
+Piyush Rathi, piyush.rathi@kahunasystems.com
